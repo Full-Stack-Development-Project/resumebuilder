@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+h1 {
+  text-align: center;
+  background-color: #ffdab9;
+}
+
+.search {
+  text-align: center;
+  margin-top: 100px;
+}
+input {
+  padding: 10px;
+  text-align: center;
+}
+input[type="text"]::placeholder {
+  text-align: center;
+  font-size: 20px;
+}
+input[type="text"] {
+  font-size: 18px;
+}
+button {
+  padding: 10px;
+  background-color: #32cd32;
+}

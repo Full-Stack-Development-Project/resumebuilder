@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+}
+.card {
+  border: 1px solid green;
+  margin: 50px;
+  padding: 20px;
+  background-color: #fafad2;
+  box-shadow: 3px 3px red, -1em 0 0.4em olive;
+}
+#title {
+  text-align: center;
+  background-color: cyan;
+}
+i {
+  color: #000080;
+  font-size: large;
+}
+
+.description {
+  font-size: 120%;
+  background-color: #fffacd;
+}
